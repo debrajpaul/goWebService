@@ -17,7 +17,7 @@ How do I get set up?
 Server Configuration:-
 
     Golang software (Ubuntu 18.04, Link:- https://golang.org/)
-    MongoDB Server version: 3.6.2 (Ubuntu 18.04, link:- https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+    Postgresql Server (Ubuntu 18.04, link:- https://www.postgresql.org/download/)
 
 Deployment instructions:-
 
